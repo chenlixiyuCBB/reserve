@@ -4,3 +4,4 @@
 ## 使用方式
 修改**generatorConfig.xml**文件中的connectionURL
 设置所需生成的表名即可
+运行 mvn mybatis-generator:generate
